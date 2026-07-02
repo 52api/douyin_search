@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>抖音搜索 API</h1>
+  <h1>抖音自动化搜索项目</h1>
   <p>基于 Playwright 浏览器自动化的抖音搜索接口，自动处理登录、签名、反爬验证</p>
   <img src="https://img.shields.io/badge/语言-JavaScript-f7df1e?style=flat-square&logo=javascript">
   <img src="https://img.shields.io/badge/运行时-Node.js_18%2B-339933?style=flat-square&logo=nodedotjs">
